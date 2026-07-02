@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 7cf92d50fdb22cc4b83d1f14f845b41b
+  productGUID: 1fe2faf81e7692e49a0480d4f0a7d4ef
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: 2D-Top-Down-TRPG_Project
+  productName: 2D-Top-Down-TRPG-Project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -600,14 +600,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 2D-Top-Down-TRPG_Project
+  metroPackageName: 2D-Top-Down-TRPG-Project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 2D-Top-Down-TRPG_Project
+  metroApplicationDescription: 2D-Top-Down-TRPG-Project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -678,10 +678,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 67e09859-a8ad-4bbf-b145-1d0e332d2772
+  cloudProjectId: 68bfa1bb-458b-49d7-9591-3cc95d0aa116
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 2D-Top-Down-TRPG_Project
+  projectName: 2D-Top-Down-TRPG-Project
   organizationId: unity_2198745bae1c1a5372bc
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
